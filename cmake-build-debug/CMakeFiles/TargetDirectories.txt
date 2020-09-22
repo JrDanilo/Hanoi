@@ -1,0 +1,3 @@
+D:/Projetos/C++/PEDA/Hanoi/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Projetos/C++/PEDA/Hanoi/cmake-build-debug/CMakeFiles/Hanoi.dir
+D:/Projetos/C++/PEDA/Hanoi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
